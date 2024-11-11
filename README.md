@@ -2,7 +2,7 @@
 
 Aluno - Luis Antonio Lustosa 
 
-Criacao de uma calculadora com as funcoes mais utilizadas utilizando python e a biblioteca tkinter
+Criacao de uma calculadora com as operacoes mais utilizadas utilizando python e a biblioteca tkinter
 
 obs=A calculadora tem "protecao" contra divisao por zero e erro de sintaxe
 
